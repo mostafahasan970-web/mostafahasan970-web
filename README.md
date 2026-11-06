@@ -1,25 +1,27 @@
-# Architecture, design & software
+# Building a digital architect
 
-**Architect · Creator of ArchMind**
+**Mostafa Hasan · Architect · Creator of ArchMind**
 
-I’m developing **ArchMind**, an AI-assisted architectural workspace for Rhino, informed by practical design work.
+We’re building **ArchMind — a digital architect powered by AI**, shaped by real architectural practice.
 
-My focus is connecting architectural intent with models, drawings, and project decisions that remain understandable as the work evolves.
+Our goal is to connect understanding, design, modeling, documentation, and review in one coherent architectural workflow.
 
-### What I’m working on
+### What we’re working toward
 
-- Architectural modeling and documentation workflows.
-- Reliable tools for working with Rhino models.
-- Project context and collaboration between designers.
+- Turning architectural ideas into accurate models and coordinated drawings.
+- Preserving project context, decisions, and lessons as the work evolves.
+- Helping architects collaborate and continue each other’s work with clarity.
 
-**Project status:** ArchMind is in active development. Demonstrations will describe the capabilities shown and their current development status.
+**Project status:** ArchMind is in active development. Public demonstrations will show the capabilities achieved and their current development status.
 
 ---
 
 ### بالعربي
 
-أنا معماري وأطوّر **ArchMind**: مساحة عمل معمارية داخل Rhino تستعين بالذكاء الاصطناعي في التصميم والنمذجة والتوثيق، انطلاقًا من احتياجات الشغل المعماري الحقيقي.
+أنا **مصطفى حسن**، معماري وصاحب مشروع **ArchMind**.
 
-أهتم بجودة المودل والرسومات، ووضوح قرارات المشروع، وتسهيل استكمال العمل بين المصممين.
+نحن نبني **أرشميند — مهندسًا معماريًا رقميًا** يستعين بالذكاء الاصطناعي، وينطلق من احتياجات العمل المعماري الحقيقي.
+
+هدفنا أن يفهم المشروع، ويساعد في التصميم والنمذجة وإعداد الرسومات والتوثيق والمراجعة، مع الحفاظ على قرارات المشروع ومعرفته وتسهيل استكمال العمل بين المهندسين.
 
 أرشميند حاليًا تحت التطوير. هذه الصفحة للتعريف بالمشروع والعمل؛ كود المنتج ليس منشورًا هنا.
